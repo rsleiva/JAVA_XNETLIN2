@@ -1,0 +1,1083 @@
+﻿Jun 01, 2015 10:49:09 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 01, 2015 10:49:09 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 01, 2015 10:49:11 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 01, 2015 10:49:11 AM Contratistas depurarDirectorios
+INFO: Se borraron 0 archivos en la depuracion.
+Jun 01, 2015 10:49:18 AM Contratistas insertar
+INFO: Se insertaron 1,378 filas.
+Jun 01, 2015 10:49:18 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Jun 09, 2015 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2015 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2015 8:00:07 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 09, 2015 8:00:07 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-06-01.xlsx del directorio procesados
+Jun 09, 2015 8:00:07 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jun 09, 2015 8:00:16 AM Contratistas insertar
+INFO: Se insertaron 1,378 filas.
+Jun 09, 2015 8:00:16 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Jun 23, 2015 9:31:44 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 23, 2015 9:31:44 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 23, 2015 9:31:45 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 23, 2015 9:31:46 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-06-09.xlsx del directorio procesados
+Jun 23, 2015 9:31:46 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jun 23, 2015 9:31:56 AM Contratistas main
+SEVERE: Se mueve el archivo Activos_2015-06-23.xlsx a la carpeta error
+Jun 23, 2015 9:31:56 AM Contratistas main
+SEVERE: No se permiten fórmulas en el documento
+Jun 23, 2015 9:31:56 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jun 23, 2015 11:57:53 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 23, 2015 11:57:54 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 23, 2015 11:57:55 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 23, 2015 11:57:55 AM Contratistas limpiarDirAProcesar
+INFO: Depuracion: se borro el archivo Activos_2015-06-23.xlsx del directorio a_procesar
+Jun 23, 2015 11:57:55 AM Contratistas main
+WARNING: El archivo ya fue procesado con ERROR. No se volvera a procesar
+Jun 23, 2015 11:57:55 AM Contratistas main
+INFO: --------- Proceso finalizado con WARNINGS ---------
+Jun 23, 2015 12:35:56 PM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 23, 2015 12:35:56 PM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 23, 2015 12:35:57 PM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 23, 2015 12:35:57 PM Contratistas depurarDirectorios
+INFO: Se borraron 0 archivos en la depuracion.
+Jun 23, 2015 12:36:11 PM Contratistas insertar
+INFO: Se insertaron 3,423 filas.
+Jun 23, 2015 12:36:11 PM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Jul 09, 2015 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2015 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2015 8:00:06 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jul 09, 2015 8:00:06 AM Contratistas depurarDirectorios
+INFO: Se borraron 0 archivos en la depuracion.
+Jul 09, 2015 8:00:21 AM Contratistas insertar
+INFO: Se insertaron 3,423 filas.
+Jul 09, 2015 8:00:21 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Aug 09, 2015 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2015 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2015 8:00:05 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Aug 09, 2015 8:00:05 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-07-09.xlsx del directorio procesados
+Aug 09, 2015 8:00:05 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Aug 09, 2015 8:00:18 AM Contratistas insertar
+INFO: Se insertaron 3,423 filas.
+Aug 09, 2015 8:00:18 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Sep 09, 2015 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2015 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2015 8:00:04 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Sep 09, 2015 8:00:04 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-08-09.xlsx del directorio procesados
+Sep 09, 2015 8:00:04 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Sep 09, 2015 8:00:26 AM Contratistas insertar
+INFO: Se insertaron 3,423 filas.
+Sep 09, 2015 8:00:26 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Oct 09, 2015 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2015 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2015 8:00:06 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Oct 09, 2015 8:00:06 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-09-09.xlsx del directorio procesados
+Oct 09, 2015 8:00:06 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Oct 09, 2015 8:00:17 AM Contratistas main
+SEVERE: Se mueve el archivo Activos_2015-10-09.xlsx a la carpeta error
+Oct 09, 2015 8:00:17 AM Contratistas main
+SEVERE: No se permiten fórmulas en el documento
+Oct 09, 2015 8:00:17 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Nov 09, 2015 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2015 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2015 8:00:10 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Nov 09, 2015 8:00:11 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-10-09.xlsx del directorio error
+Nov 09, 2015 8:00:11 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Nov 09, 2015 8:00:19 AM Contratistas main
+SEVERE: Se mueve el archivo Activos_2015-11-09.xlsx a la carpeta error
+Nov 09, 2015 8:00:19 AM Contratistas main
+SEVERE: No se permiten fórmulas en el documento
+Nov 09, 2015 8:00:19 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Dec 09, 2015 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2015 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2015 8:00:04 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Dec 09, 2015 8:00:04 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-11-09.xlsx del directorio error
+Dec 09, 2015 8:00:04 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Dec 09, 2015 8:00:23 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+Dec 09, 2015 8:00:23 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Jan 09, 2016 8:00:00 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jan 09, 2016 8:00:01 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jan 09, 2016 8:00:04 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jan 09, 2016 8:00:04 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2015-12-09.xlsx del directorio procesados
+Jan 09, 2016 8:00:04 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jan 09, 2016 8:00:30 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+Jan 09, 2016 8:00:30 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Feb 09, 2016 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Feb 09, 2016 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Feb 09, 2016 8:00:05 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Feb 09, 2016 8:00:05 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-01-09.xlsx del directorio procesados
+Feb 09, 2016 8:00:05 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Feb 09, 2016 8:00:18 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+Feb 09, 2016 8:00:18 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Mar 09, 2016 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Mar 09, 2016 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Mar 09, 2016 8:00:05 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Mar 09, 2016 8:00:05 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-02-09.xlsx del directorio procesados
+Mar 09, 2016 8:00:05 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Mar 09, 2016 8:00:23 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+Mar 09, 2016 8:00:23 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Apr 09, 2016 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 09, 2016 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Apr 09, 2016 8:00:04 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Apr 09, 2016 8:00:04 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-03-09.xlsx del directorio procesados
+Apr 09, 2016 8:00:04 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Apr 09, 2016 8:00:16 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+Apr 09, 2016 8:00:16 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+May 09, 2016 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2016 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2016 8:00:05 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+May 09, 2016 8:00:05 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-04-09.xlsx del directorio procesados
+May 09, 2016 8:00:05 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+May 09, 2016 8:00:24 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+May 09, 2016 8:00:24 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Jun 09, 2016 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2016 8:00:01 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2016 8:00:05 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 09, 2016 8:00:06 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-05-09.xlsx del directorio procesados
+Jun 09, 2016 8:00:06 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jun 09, 2016 8:00:45 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+Jun 09, 2016 8:00:45 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Jul 09, 2016 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2016 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2016 8:00:04 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jul 09, 2016 8:00:04 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-06-09.xlsx del directorio procesados
+Jul 09, 2016 8:00:04 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jul 09, 2016 8:00:14 AM Contratistas insertar
+INFO: Se insertaron 3,202 filas.
+Jul 09, 2016 8:00:14 AM Contratistas main
+INFO: --------- Proceso finalizado correctamente ---------
+Aug 09, 2016 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2016 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2016 8:00:05 AM Contratistas traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Aug 09, 2016 8:00:06 AM Contratistas depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-07-09.xlsx del directorio procesados
+Aug 09, 2016 8:00:06 AM Contratistas depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Aug 09, 2016 8:00:16 AM Contratistas main
+SEVERE: Se mueve el archivo Activos_2016-08-09.xlsx a la carpeta error
+Aug 09, 2016 8:00:16 AM Contratistas main
+SEVERE: No se permiten fórmulas en el documento
+Aug 09, 2016 8:00:16 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Sep 09, 2016 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2016 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2016 8:00:07 AM Contratistas main
+SEVERE: The network name cannot be found.
+Sep 09, 2016 8:00:07 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Oct 09, 2016 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2016 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2016 8:00:05 AM Contratistas main
+SEVERE: The network name cannot be found.
+Oct 09, 2016 8:00:05 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Nov 09, 2016 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2016 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2016 8:00:37 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Nov 09, 2016 8:00:38 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Dec 09, 2016 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2016 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2016 8:00:36 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Dec 09, 2016 8:00:36 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jan 09, 2017 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jan 09, 2017 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jan 09, 2017 8:00:07 AM Contratistas main
+SEVERE: The network name cannot be found.
+Jan 09, 2017 8:00:07 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Feb 09, 2017 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Feb 09, 2017 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Feb 09, 2017 8:00:08 AM Contratistas main
+SEVERE: The network name cannot be found.
+Feb 09, 2017 8:00:08 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Mar 09, 2017 8:00:04 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Mar 09, 2017 8:00:05 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Mar 09, 2017 8:00:09 AM Contratistas main
+SEVERE: The network name cannot be found.
+Mar 09, 2017 8:00:09 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Apr 09, 2017 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 09, 2017 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Apr 09, 2017 8:00:05 AM Contratistas main
+SEVERE: The network name cannot be found.
+Apr 09, 2017 8:00:05 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+May 09, 2017 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2017 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2017 8:00:09 AM Contratistas main
+SEVERE: The network name cannot be found.
+May 09, 2017 8:00:09 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jun 09, 2017 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2017 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2017 8:00:10 AM Contratistas main
+SEVERE: The network name cannot be found.
+Jun 09, 2017 8:00:10 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jul 09, 2017 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2017 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2017 8:00:07 AM Contratistas main
+SEVERE: The network name cannot be found.
+Jul 09, 2017 8:00:07 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Aug 09, 2017 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2017 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2017 8:00:10 AM Contratistas main
+SEVERE: The network name cannot be found.
+Aug 09, 2017 8:00:10 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Sep 09, 2017 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2017 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2017 8:00:09 AM Contratistas main
+SEVERE: The network name cannot be found.
+Sep 09, 2017 8:00:09 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Oct 09, 2017 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2017 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2017 8:00:08 AM Contratistas main
+SEVERE: The network name cannot be found.
+Oct 09, 2017 8:00:08 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Nov 09, 2017 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2017 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2017 8:00:17 AM Contratistas main
+SEVERE: The network name cannot be found.
+Nov 09, 2017 8:00:17 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Dec 09, 2017 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2017 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2017 8:00:09 AM Contratistas main
+SEVERE: The network name cannot be found.
+Dec 09, 2017 8:00:09 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jan 09, 2018 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jan 09, 2018 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jan 09, 2018 8:00:07 AM Contratistas main
+SEVERE: The network name cannot be found.
+Jan 09, 2018 8:00:07 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Feb 09, 2018 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Feb 09, 2018 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Feb 09, 2018 8:00:07 AM Contratistas main
+SEVERE: The network name cannot be found.
+Feb 09, 2018 8:00:07 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Mar 09, 2018 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Mar 09, 2018 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Mar 09, 2018 8:00:08 AM Contratistas main
+SEVERE: The network name cannot be found.
+Mar 09, 2018 8:00:08 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Apr 09, 2018 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 09, 2018 8:00:01 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Apr 09, 2018 8:00:05 AM Contratistas main
+SEVERE: The network name cannot be found.
+Apr 09, 2018 8:00:05 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+May 09, 2018 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2018 8:00:01 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2018 8:00:03 AM Contratistas main
+SEVERE: The network name cannot be found.
+May 09, 2018 8:00:03 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jun 09, 2018 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2018 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2018 8:00:04 AM Contratistas main
+SEVERE: The network name cannot be found.
+Jun 09, 2018 8:00:04 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jul 09, 2018 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2018 8:00:01 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2018 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Jul 09, 2018 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Aug 09, 2018 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2018 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2018 8:00:38 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Aug 09, 2018 8:00:38 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Sep 09, 2018 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2018 8:00:01 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2018 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Sep 09, 2018 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Oct 09, 2018 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2018 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2018 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Oct 09, 2018 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Nov 09, 2018 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2018 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2018 8:00:35 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Nov 09, 2018 8:00:35 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Dec 09, 2018 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2018 8:00:01 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2018 8:00:32 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Dec 09, 2018 8:00:32 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jan 09, 2019 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jan 09, 2019 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jan 09, 2019 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Jan 09, 2019 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Feb 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Feb 09, 2019 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Feb 09, 2019 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Feb 09, 2019 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Mar 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Mar 09, 2019 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Mar 09, 2019 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Mar 09, 2019 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Apr 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 09, 2019 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Apr 09, 2019 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Apr 09, 2019 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+May 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2019 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2019 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+May 09, 2019 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jun 09, 2019 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2019 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2019 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Jun 09, 2019 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jul 09, 2019 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2019 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2019 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Jul 09, 2019 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Aug 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2019 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2019 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Aug 09, 2019 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Sep 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2019 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2019 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Sep 09, 2019 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Oct 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2019 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2019 8:00:35 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Oct 09, 2019 8:00:35 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Nov 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2019 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2019 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Nov 09, 2019 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Dec 09, 2019 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2019 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2019 8:00:39 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Dec 09, 2019 8:00:39 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jan 09, 2020 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jan 09, 2020 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jan 09, 2020 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Jan 09, 2020 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Feb 09, 2020 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Feb 09, 2020 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Feb 09, 2020 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Feb 09, 2020 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Mar 09, 2020 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Mar 09, 2020 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Mar 09, 2020 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Mar 09, 2020 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Apr 09, 2020 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 09, 2020 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Apr 09, 2020 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Apr 09, 2020 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+May 09, 2020 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2020 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2020 8:00:35 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+May 09, 2020 8:00:35 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jun 09, 2020 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2020 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2020 8:00:33 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Jun 09, 2020 8:00:33 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Jul 09, 2020 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2020 8:00:04 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2020 8:00:35 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Jul 09, 2020 8:00:35 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Aug 09, 2020 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2020 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2020 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Aug 09, 2020 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Sep 09, 2020 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2020 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2020 8:00:34 AM Contratistas main
+SEVERE: Failed to connect: 0.0.0.0<00>/192.168.190.150
+Sep 09, 2020 8:00:34 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Oct 09, 2020 8:00:03 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2020 8:00:03 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2020 8:00:04 AM Contratistas main
+SEVERE: SQL Exception:
+Oct 09, 2020 8:00:04 AM Contratistas main
+SEVERE: State  : null
+Oct 09, 2020 8:00:04 AM Contratistas main
+SEVERE: Message: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+
+Oct 09, 2020 8:00:04 AM Contratistas main
+SEVERE: Error Code  : 0
+Oct 09, 2020 8:00:04 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Nov 09, 2020 8:00:01 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2020 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2020 8:00:03 AM Contratistas main
+SEVERE: SQL Exception:
+Nov 09, 2020 8:00:03 AM Contratistas main
+SEVERE: State  : null
+Nov 09, 2020 8:00:03 AM Contratistas main
+SEVERE: Message: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+
+Nov 09, 2020 8:00:03 AM Contratistas main
+SEVERE: Error Code  : 0
+Nov 09, 2020 8:00:03 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Dec 09, 2020 8:00:02 AM Contratistas main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2020 8:00:02 AM Contratistas setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2020 8:00:03 AM Contratistas main
+SEVERE: SQL Exception:
+Dec 09, 2020 8:00:03 AM Contratistas main
+SEVERE: State  : null
+Dec 09, 2020 8:00:03 AM Contratistas main
+SEVERE: Message: Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+
+Dec 09, 2020 8:00:03 AM Contratistas main
+SEVERE: Error Code  : 0
+Dec 09, 2020 8:00:03 AM Contratistas main
+INFO: ------------- Proceso finalizado con ERROR ----------
+Apr 21, 2021 10:00:27 AM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 21, 2021 10:00:27 AM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Apr 21, 2021 10:00:28 AM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Apr 21, 2021 10:00:28 AM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2016-08-09.xlsx del directorio error
+Apr 21, 2021 10:00:28 AM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Apr 21, 2021 10:01:46 AM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Apr 21, 2021 10:01:46 AM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+May 09, 2021 4:59:30 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2021 4:59:30 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2021 4:59:31 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+May 09, 2021 4:59:31 PM Contratista depurarDirectorios
+INFO: Se borraron 0 archivos en la depuracion.
+May 09, 2021 5:00:51 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+May 09, 2021 5:00:51 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Jun 09, 2021 4:59:54 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2021 4:59:54 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2021 4:59:56 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 09, 2021 4:59:56 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-05-09.xlsx del directorio procesados
+Jun 09, 2021 4:59:56 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jun 09, 2021 5:01:37 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Jun 09, 2021 5:01:37 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Jul 09, 2021 4:59:25 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2021 4:59:25 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2021 4:59:28 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jul 09, 2021 4:59:28 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-06-09.xlsx del directorio procesados
+Jul 09, 2021 4:59:28 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jul 09, 2021 5:00:37 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Jul 09, 2021 5:00:37 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Aug 09, 2021 4:58:54 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2021 4:58:54 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2021 4:58:57 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Aug 09, 2021 4:58:57 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-07-09.xlsx del directorio procesados
+Aug 09, 2021 4:58:57 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Aug 09, 2021 5:00:50 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Aug 09, 2021 5:00:50 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Sep 09, 2021 4:58:23 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2021 4:58:23 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2021 4:58:27 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Sep 09, 2021 4:58:27 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-08-09.xlsx del directorio procesados
+Sep 09, 2021 4:58:27 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Sep 09, 2021 4:59:32 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Sep 09, 2021 4:59:32 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Oct 09, 2021 4:57:53 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2021 4:57:53 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2021 4:57:54 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Oct 09, 2021 4:57:54 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-09-09.xlsx del directorio procesados
+Oct 09, 2021 4:57:54 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Oct 09, 2021 4:58:50 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Oct 09, 2021 4:58:50 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Nov 09, 2021 4:57:22 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2021 4:57:22 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2021 4:57:23 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Nov 09, 2021 4:57:23 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-10-09.xlsx del directorio procesados
+Nov 09, 2021 4:57:23 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Nov 09, 2021 4:58:23 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Nov 09, 2021 4:58:23 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Dec 09, 2021 4:56:52 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2021 4:56:52 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2021 4:56:54 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Dec 09, 2021 4:56:54 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-11-09.xlsx del directorio procesados
+Dec 09, 2021 4:56:54 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Dec 09, 2021 4:58:22 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Dec 09, 2021 4:58:22 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Jan 09, 2022 4:56:20 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jan 09, 2022 4:56:20 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Jan 09, 2022 4:56:21 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jan 09, 2022 4:56:21 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2021-12-09.xlsx del directorio procesados
+Jan 09, 2022 4:56:21 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jan 09, 2022 4:57:39 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Jan 09, 2022 4:57:39 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Feb 09, 2022 4:55:48 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Feb 09, 2022 4:55:48 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Feb 09, 2022 4:55:49 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Feb 09, 2022 4:55:49 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-01-09.xlsx del directorio procesados
+Feb 09, 2022 4:55:49 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Feb 09, 2022 4:56:58 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Feb 09, 2022 4:56:58 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Mar 09, 2022 5:00:00 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Mar 09, 2022 5:00:00 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Mar 09, 2022 5:00:02 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Mar 09, 2022 5:00:02 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-02-09.xlsx del directorio procesados
+Mar 09, 2022 5:00:02 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Mar 09, 2022 6:19:42 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Mar 09, 2022 6:19:42 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Apr 09, 2022 4:59:44 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 09, 2022 4:59:44 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Apr 09, 2022 4:59:45 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Apr 09, 2022 4:59:45 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-03-09.xlsx del directorio procesados
+Apr 09, 2022 4:59:45 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Apr 09, 2022 5:00:31 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Apr 09, 2022 5:00:31 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+May 09, 2022 4:59:22 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2022 4:59:23 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2022 4:59:25 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+May 09, 2022 4:59:25 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-04-09.xlsx del directorio procesados
+May 09, 2022 4:59:25 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+May 09, 2022 5:00:36 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+May 09, 2022 5:00:36 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Jun 09, 2022 4:59:00 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2022 4:59:00 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2022 4:59:01 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jun 09, 2022 4:59:01 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-05-09.xlsx del directorio procesados
+Jun 09, 2022 4:59:01 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jun 09, 2022 5:00:39 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Jun 09, 2022 5:00:39 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Jul 09, 2022 4:58:39 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jul 09, 2022 4:58:39 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Jul 09, 2022 4:58:40 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jul 09, 2022 4:58:41 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-06-09.xlsx del directorio procesados
+Jul 09, 2022 4:58:41 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jul 09, 2022 5:00:56 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Jul 09, 2022 5:00:56 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Aug 09, 2022 4:59:57 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Aug 09, 2022 4:59:57 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Aug 09, 2022 4:59:59 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Aug 09, 2022 4:59:59 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-07-09.xlsx del directorio procesados
+Aug 09, 2022 4:59:59 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Aug 09, 2022 5:01:49 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Aug 09, 2022 5:01:49 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Sep 09, 2022 4:59:29 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Sep 09, 2022 4:59:29 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Sep 09, 2022 4:59:30 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Sep 09, 2022 4:59:30 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-08-09.xlsx del directorio procesados
+Sep 09, 2022 4:59:30 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Sep 09, 2022 5:01:09 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Sep 09, 2022 5:01:09 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Oct 09, 2022 4:59:03 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Oct 09, 2022 4:59:03 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Oct 09, 2022 4:59:05 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Oct 09, 2022 4:59:05 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-09-09.xlsx del directorio procesados
+Oct 09, 2022 4:59:05 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Oct 09, 2022 5:00:51 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Oct 09, 2022 5:00:51 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Nov 09, 2022 5:00:00 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Nov 09, 2022 5:00:00 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Nov 09, 2022 5:00:01 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Nov 09, 2022 5:00:02 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-10-09.xlsx del directorio procesados
+Nov 09, 2022 5:00:02 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Nov 09, 2022 5:02:31 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Nov 09, 2022 5:02:31 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Dec 09, 2022 5:00:00 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Dec 09, 2022 5:00:00 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Dec 09, 2022 5:00:02 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Dec 09, 2022 5:00:02 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-11-09.xlsx del directorio procesados
+Dec 09, 2022 5:00:02 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Dec 09, 2022 5:01:29 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Dec 09, 2022 5:01:29 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Jan 09, 2023 5:00:01 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jan 09, 2023 5:00:02 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Jan 09, 2023 5:00:04 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Jan 09, 2023 5:00:04 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2022-12-09.xlsx del directorio procesados
+Jan 09, 2023 5:00:04 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Jan 09, 2023 5:04:22 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Jan 09, 2023 5:04:22 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Feb 09, 2023 5:00:01 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Feb 09, 2023 5:00:01 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Feb 09, 2023 5:00:03 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Feb 09, 2023 5:00:03 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2023-01-09.xlsx del directorio procesados
+Feb 09, 2023 5:00:03 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Feb 09, 2023 5:02:35 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Feb 09, 2023 5:02:35 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Mar 09, 2023 5:00:01 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Mar 09, 2023 5:00:01 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Mar 09, 2023 5:00:03 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Mar 09, 2023 5:00:03 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2023-02-09.xlsx del directorio procesados
+Mar 09, 2023 5:00:03 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Mar 09, 2023 5:04:00 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Mar 09, 2023 5:04:00 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Apr 09, 2023 5:01:55 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Apr 09, 2023 5:01:55 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Apr 09, 2023 5:02:02 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+Apr 09, 2023 5:02:02 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2023-03-09.xlsx del directorio procesados
+Apr 09, 2023 5:02:02 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+Apr 09, 2023 5:04:31 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+Apr 09, 2023 5:04:31 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+May 09, 2023 5:01:32 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+May 09, 2023 5:01:32 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+May 09, 2023 5:01:34 PM Contratista traerArchivo
+INFO: el archivo Activos.xlsx fue copiado desde el repositorio remoto
+May 09, 2023 5:01:34 PM Contratista depurarDirectorios
+INFO: Depuracion: se borro el archivo Activos_2023-04-09.xlsx del directorio procesados
+May 09, 2023 5:01:34 PM Contratista depurarDirectorios
+INFO: Se borraron 1 archivos en la depuracion.
+May 09, 2023 5:05:47 PM Contratista insertar
+INFO: Se insertaron 10,615 filas.
+May 09, 2023 5:05:47 PM Contratista main
+INFO: --------- Proceso finalizado correctamente ---------
+Jun 09, 2023 5:01:09 PM Contratista main
+INFO: --------- COMENZANDO PROCESO BATCH ---------
+Jun 09, 2023 5:01:09 PM Contratista setearConexion
+INFO: Conectando al ambiente PRO
+Jun 09, 2023 5:01:09 PM Contratista main
+SEVERE: SQL Exception:
+Jun 09, 2023 5:01:09 PM Contratista main
+SEVERE: State  : 99999
+Jun 09, 2023 5:01:09 PM Contratista main
+SEVERE: Message: ORA-28040: No matching authentication protocol
+
+Jun 09, 2023 5:01:09 PM Contratista main
+SEVERE: Error Code  : 28,040
+Jun 09, 2023 5:01:09 PM Contratista main
+INFO: ------------- Proceso finalizado con ERROR ----------

@@ -1,0 +1,1 @@
+esto es una prueba para abrir un archivo dentro de un mismo projecto

@@ -1,0 +1,11 @@
+Feb 08, 2022 2:30:01 AM NewMain main
+INFO: ---------  Comenzando Proceso Batch         ----------
+Feb 08, 2022 2:30:01 AM NewMain setearConexion
+INFO: Conectando al ambiente PRO
+Feb 08, 2022 3:00:32 AM NewMain enviar
+INFO: Comenzando EnvÃ­o de Documentos al ENRE
+Feb 08, 2022 3:03:28 AM NewMain main
+SEVERE: Failed to access the WSDL at: http://10.10.29.71/wsrecelectrodep.nsf/wsgenerarreclamo?WSDL. It failed with: 
+	No route to host (Host unreachable).
+Feb 08, 2022 3:03:28 AM NewMain main
+INFO: ---------  Proceso Finalizado Con ERROR     ----------

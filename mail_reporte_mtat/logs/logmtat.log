@@ -1,0 +1,453 @@
+enviado: <html><head><style id='Mail_Styles'><!--table.xl1530982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:bottom; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl6530982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:700; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border-top:1.0pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:1.0pt solid windowtext; 	background:#FFC000; 	mso-pattern:black none; 	white-space:nowrap;}.xl6630982	{padding:5px; 	color:black; 	font-size:10pt; 	font-weight:700; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:center; 	vertical-align:middle; 	border-top:1.0pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:.5pt solid windowtext; 	background:#C5D9F1; 	mso-pattern:black none; 	white-space:nowrap;}.xl6730982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:700; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:right; 	vertical-align:middle; 	border-top:1.0pt solid windowtext; 	border-right:1.0pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:.5pt solid windowtext; 	background:#FFC000; 	mso-pattern:black none; 	white-space:nowrap;}.xl6830982	{padding:5px; 	mso-ignore:padding; 	color:black; 	font-size:10.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border-top:1.0pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl6930982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:'General Date'; 	text-align:general; 	vertical-align:middle; 	border-top:1.0pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7030982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:'Short Time'; 	text-align:general; 	vertical-align:middle; 	border-top:1.0pt solid windowtext; 	border-right:1.0pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7130982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7230982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:'General Date'; 	text-align:general; 	vertical-align:middle; 	border:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7330982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:'Short Time'; 	text-align:general; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:1.0pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7430982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7530982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:'General Date'; 	text-align:general; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7630982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:'Short Time'; 	text-align:general; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:1.0pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:.5pt solid windowtext; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7730982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:12.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:'Times New Roman', serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:bottom; 	mso-background-source:auto; 	mso-pattern:auto; 	white-space:nowrap;}.xl7830982	{padding:5px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border-top:1.0pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:1.0pt solid windowtext; 	background:#C5D9F1; 	mso-pattern:black none; 	white-space:nowrap;}.xl7930982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:.5pt solid windowtext; 	border-left:1.0pt solid windowtext; 	background:#C5D9F1; 	mso-pattern:black none; 	white-space:nowrap;}.xl8030982	{padding:0px; 	mso-ignore:padding; 	color:black; 	font-size:11.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:1.0pt solid windowtext; 	background:#C5D9F1; 	mso-pattern:black none; 	white-space:nowrap;}.padded	{padding:5px; 	color:black; 	font-size:10.0pt; 	font-weight:400; 	font-style:normal; 	text-decoration:none; 	font-family:Calibri, sans-serif; 	mso-font-charset:0; 	mso-number-format:General; 	text-align:general; 	vertical-align:middle; 	border-top:.5pt solid windowtext; 	border-right:.5pt solid windowtext; 	border-bottom:1.0pt solid windowtext; 	border-left:1.0pt solid windowtext; 	background:#C5D9F1; 	mso-pattern:black none; 	white-space:nowrap;}--></style></head><body><div id='Mail_body' align=left><table border=0 cellpadding=0 cellspacing=0 width=494 style='border-collapse: collapse;table-layout:auto;width:371pt'> <tr height=21 style='height:15.75pt'>  <td height=21 class=xl7730982 colspan=9 width=494 style='height:15.75pt;width:371pt'>IMPORTANTE: El presente es un mail automático que informa situación de documentos MTAT informados al ENRE<br>Hora Extracto: 18/09/2018 12:00:05<br></td> </tr> <tr height=21 style='height:15.75pt'>  <td height=21 class=xl1530982 style='height:15.75pt' colspan=5 ></td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'>  <td height=27 class=xl6630982 style='height:20.25pt'>REGION</td>  <td height=27 class=xl6630982 style='height:20.25pt'>ZONA</td>  <td class=xl6630982 style='border-left:none'>SUBEST</td>  <td class=xl6630982 style='border-left:none'>CLI_ACTU</td>  <td class=xl6630982 style='border-left:none'>CT_ACTU</td>  <td class=xl6630982 style='border-left:none'>DOCUMENTO</td>  <td class=xl6630982 style='border-left:none'>ALIM</td>  <td class=xl6630982 style='border-left:none'>HORA INICIO</td>  <td class=xl6630982 style='border-left:none'>CLI_INIC</td>  <td class=xl6630982 style='border-left:none'>CT_INIC</td>  <td class=xl6630982 style='border-left:none'>TIPO</td> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R1</td> <td height=27 class=xl7830982 style='height:20.25pt'>SAN MARTIN</td><td class=xl6830982 align=right style='border-left:none'>SUAREZ</td>  <td class=xl6830982 align=right style='border-left:none'>422</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-030157</td>  <td class=xl6830982 align=right style='border-left:none'>26618</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 02:42:33</td>  <td class=xl6830982 align=right style='border-left:none'>2678</td>  <td class=xl6830982 align=right style='border-left:none'>6</td>  <td class=xl6830982 align=right style='border-left:none'>F</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R2</td> <td height=27 class=xl7830982 style='height:20.25pt'>MATANZA</td><td class=xl6830982 align=right style='border-left:none'>S/N</td>  <td class=xl6830982 align=right style='border-left:none'>419</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-029288</td>  <td class=xl6830982 align=right style='border-left:none'>36526</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 10:43:50</td>  <td class=xl6830982 align=right style='border-left:none'>419</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>P</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R2</td> <td height=27 class=xl7830982 style='height:20.25pt'>MATANZA</td><td class=xl6830982 align=right style='border-left:none'>EL PINO</td>  <td class=xl6830982 align=right style='border-left:none'>466</td>  <td class=xl6830982 align=right style='border-left:none'>22</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-030237</td>  <td class=xl6830982 align=right style='border-left:none'>35322/35324</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 07:42:38</td>  <td class=xl6830982 align=right style='border-left:none'>2620</td>  <td class=xl6830982 align=right style='border-left:none'>51</td>  <td class=xl6830982 align=right style='border-left:none'>F</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R2</td> <td height=27 class=xl7830982 style='height:20.25pt'>MORON</td><td class=xl6830982 align=right style='border-left:none'>RAMOS MEJIA</td>  <td class=xl6830982 align=right style='border-left:none'>367</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-029281</td>  <td class=xl6830982 align=right style='border-left:none'>6631</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 10:13:32</td>  <td class=xl6830982 align=right style='border-left:none'>367</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>P</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>MORENO</td><td class=xl6830982 align=right style='border-left:none'>MALVINAS</td>  <td class=xl6830982 align=right style='border-left:none'>526</td>  <td class=xl6830982 align=right style='border-left:none'>11</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-029248</td>  <td class=xl6830982 align=right style='border-left:none'>16975/16971</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 08:17:08</td>  <td class=xl6830982 align=right style='border-left:none'>2459</td>  <td class=xl6830982 align=right style='border-left:none'>103</td>  <td class=xl6830982 align=right style='border-left:none'>P</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>PILAR</td><td class=xl6830982 align=right style='border-left:none'>MANZONE</td>  <td class=xl6830982 align=right style='border-left:none'>21</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-029236</td>  <td class=xl6830982 align=right style='border-left:none'>25720/25722</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 10:13:04</td>  <td class=xl6830982 align=right style='border-left:none'>21</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>P</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>PILAR</td><td class=xl6830982 align=right style='border-left:none'>TORTUGUITA</td>  <td class=xl6830982 align=right style='border-left:none'>34</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-029251</td>  <td class=xl6830982 align=right style='border-left:none'>25241</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 09:36:50</td>  <td class=xl6830982 align=right style='border-left:none'>34</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>P</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>PILAR</td><td class=xl6830982 align=right style='border-left:none'>BENAVIDEZ</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-029275</td>  <td class=xl6830982 align=right style='border-left:none'>5913</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 09:08:27</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>P</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>TIGRE</td><td class=xl6830982 align=right style='border-left:none'>TIGRE</td>  <td class=xl6830982 align=right style='border-left:none'>3</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-029304</td>  <td class=xl6830982 align=right style='border-left:none'>15323</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 07:44:35</td>  <td class=xl6830982 align=right style='border-left:none'>3</td>  <td class=xl6830982 align=right style='border-left:none'>1</td>  <td class=xl6830982 align=right style='border-left:none'>P</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>TIGRE</td><td class=xl6830982 align=right style='border-left:none'>TALAR</td>  <td class=xl6830982 align=right style='border-left:none'>555</td>  <td class=xl6830982 align=right style='border-left:none'>3</td>  <td class=xl6830982 align=right style='border-left:none'>D-18-09-030258</td>  <td class=xl6830982 align=right style='border-left:none'>5845/5838</td>  <td class=xl6830982 align=right style='border-left:none'>18/09/2018 08:05:37</td>  <td class=xl6830982 align=right style='border-left:none'>1092</td>  <td class=xl6830982 align=right style='border-left:none'>9</td>  <td class=xl6830982 align=right style='border-left:none'>F</td> </tr> <tr height=20 style='height:15.0pt'>  <td height=20 class=xl1530982 style='height:15.0pt' colspan=5 ></td> </tr></table><table border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:auto;width:150pt'> <tr height=21 style='height:15.75pt'>  <td height=21 class=xl1530982 style='height:15.75pt' colspan=2 ></td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'>  <td height=27 class=xl6630982 style='height:20.25pt'>REGION</td>  <td height=27 class=xl6630982 style='height:20.25pt'>ZONA</td>  <td height=27 class=xl6630982 style='height:20.25pt'>CLIENTES FS FORZ.</td>  <td height=27 class=xl6630982 style='height:20.25pt'>CLIENTES FS PROGR.</td>  <td class=xl6630982 style='border-left:none'>CLIENTES FS ACTUALES</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R1</td> <td height=27 class=xl7830982 style='height:20.25pt'>CABA</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R1</td> <td height=27 class=xl7830982 style='height:20.25pt'>OLIVOS</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R1</td> <td height=27 class=xl7830982 style='height:20.25pt'>SAN MARTIN</td> <td class=xl6830982 align=right style='border-left:none'>422</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>422</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R2</td> <td height=27 class=xl7830982 style='height:20.25pt'>MATANZA</td> <td class=xl6830982 align=right style='border-left:none'>466</td> <td class=xl6830982 align=right style='border-left:none'>419</td> <td class=xl6830982 align=right style='border-left:none'>885</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R2</td> <td height=27 class=xl7830982 style='height:20.25pt'>MERLO</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R2</td> <td height=27 class=xl7830982 style='height:20.25pt'>MORON</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>367</td> <td class=xl6830982 align=right style='border-left:none'>367</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>MORENO</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>526</td> <td class=xl6830982 align=right style='border-left:none'>526</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>PILAR</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>56</td> <td class=xl6830982 align=right style='border-left:none'>56</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>SAN MIGUEL</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> <td class=xl6830982 align=right style='border-left:none'>0</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt'>R3</td> <td height=27 class=xl7830982 style='height:20.25pt'>TIGRE</td> <td class=xl6830982 align=right style='border-left:none'>555</td> <td class=xl6830982 align=right style='border-left:none'>3</td> <td class=xl6830982 align=right style='border-left:none'>558</td> </tr> <tr height=27 style='mso-height-source:userset;height:20.25pt'> <td height=27 class=xl7830982 style='height:20.25pt; font-weight: bold'>TOTAL</td> <td height=27 class=xl7830982 style='height:20.25pt; font-weight: bold'> </td> <td class=xl6830982 align=right style='border-left:none'>1443</td> <td class=xl6830982 align=right style='border-left:none'>1371</td> <td class=xl6830982 align=right style='border-left:none'>2814</td> </tr></table> <br> <hr> <br><table border=0 cellpadding=5px cellspacing=0 width=494 style='border-collapse: collapse;table-layout:auto;width:371pt'> <tr height=20 style='height:15.0pt'>  <td height=20 style='height:15.0pt' align=left valign=top colspan=5 >  <span style='mso-ignore:vglayout;position:absolute;z-index:1;margin-left:3px;margin-top:3px;width:71px;height:15px'>  <img width=71 height=15 src='Logo_edenor.gif'  alt='DescripciÃ³n: logo de Edenor' ></span>  </td> </tr></table></div></body></html>
+DEBUG: JavaMail version 1.4ea
+DEBUG: java.io.FileNotFoundException: /opt/java7/jre/lib/javamail.providers (No such file or directory (errno:2))
+DEBUG: URL jar:file:/ias/mail_reporte_mtat/jar/smtp.jar!/META-INF/javamail.providers
+DEBUG: successfully loaded resource: jar:file:/ias/mail_reporte_mtat/jar/smtp.jar!/META-INF/javamail.providers
+DEBUG: successfully loaded resource: /META-INF/javamail.default.providers
+DEBUG: Tables of loaded providers
+DEBUG: Providers Listed By Class Name: {com.sun.mail.smtp.SMTPSSLTransport=javax.mail.Provider[TRANSPORT,smtps,com.sun.mail.smtp.SMTPSSLTransport,Oracle], com.sun.mail.imap.IMAPSSLStore=javax.mail.Provider[STORE,imaps,com.sun.mail.imap.IMAPSSLStore,Oracle], com.sun.mail.smtp.SMTPTransport=javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Oracle], com.sun.mail.pop3.POP3SSLStore=javax.mail.Provider[STORE,pop3s,com.sun.mail.pop3.POP3SSLStore,Oracle], com.sun.mail.imap.IMAPStore=javax.mail.Provider[STORE,imap,com.sun.mail.imap.IMAPStore,Oracle], com.sun.mail.pop3.POP3Store=javax.mail.Provider[STORE,pop3,com.sun.mail.pop3.POP3Store,Oracle]}
+DEBUG: Providers Listed By Protocol: {imaps=javax.mail.Provider[STORE,imaps,com.sun.mail.imap.IMAPSSLStore,Oracle], imap=javax.mail.Provider[STORE,imap,com.sun.mail.imap.IMAPStore,Oracle], smtps=javax.mail.Provider[TRANSPORT,smtps,com.sun.mail.smtp.SMTPSSLTransport,Sun Microsystems, Inc], pop3=javax.mail.Provider[STORE,pop3,com.sun.mail.pop3.POP3Store,Oracle], pop3s=javax.mail.Provider[STORE,pop3s,com.sun.mail.pop3.POP3SSLStore,Oracle], smtp=javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Sun Microsystems, Inc]}
+DEBUG: successfully loaded resource: /META-INF/javamail.default.address.map
+DEBUG: URL jar:file:/ias/mail_reporte_mtat/jar/smtp.jar!/META-INF/javamail.address.map
+DEBUG: successfully loaded resource: jar:file:/ias/mail_reporte_mtat/jar/smtp.jar!/META-INF/javamail.address.map
+DEBUG: java.io.FileNotFoundException: /opt/java7/jre/lib/javamail.address.map (No such file or directory (errno:2))
+DEBUG: getProvider() returning javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Sun Microsystems, Inc]
+DEBUG SMTP: useEhlo true, useAuth false
+DEBUG SMTP: trying to connect to host "mail.edenor", port 25, isSSL false
+220 F5 SRVTROHCAS006
+DEBUG SMTP: connected to host "mail.edenor", port: 25
+
+EHLO xnetux5.pro.edenor
+250-SRVTROHCAS006.pro.edenor Hello [192.168.142.162]
+250-SIZE 37748736
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250 CHUNKING
+DEBUG SMTP: Found extension "SIZE", arg "37748736"
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "DSN", arg ""
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "STARTTLS", arg ""
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "BINARYMIME", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: use8bit false
+MAIL FROM:<centrodeinformacion@edenor.com>
+250 2.1.0 Sender OK
+RCPT TO:<centrodeinformacion@edenor.com>
+250 2.1.5 Recipient OK
+RCPT TO:<EMAGGI@edenor.com>
+250 2.1.5 Recipient OK
+RCPT TO:<PPEREZ@edenor.com>
+250 2.1.5 Recipient OK
+RCPT TO:<PMAZZA@edenor.com>
+250 2.1.5 Recipient OK
+RCPT TO:<ELAFUENTE@edenor.com>
+250 2.1.5 Recipient OK
+RCPT TO:<MRRODRIGUEZ@edenor.com>
+250 2.1.5 Recipient OK
+DEBUG SMTP: Verified Addresses
+DEBUG SMTP:   centrodeinformacion@edenor.com
+DEBUG SMTP:   EMAGGI@edenor.com
+DEBUG SMTP:   PPEREZ@edenor.com
+DEBUG SMTP:   PMAZZA@edenor.com
+DEBUG SMTP:   ELAFUENTE@edenor.com
+DEBUG SMTP:   MRRODRIGUEZ@edenor.com
+DATA
+354 Start mail input; end with <CRLF>.<CRLF>
+Date: Tue, 18 Sep 2018 12:00:11 -0300 (ART)
+From: centrodeinformacion@edenor.com
+To: centrodeinformacion@edenor.com, EMAGGI@edenor.com, PPEREZ@edenor.com, 
+	PMAZZA@edenor.com, ELAFUENTE@edenor.com, MRRODRIGUEZ@edenor.com
+Message-ID: <14244.01537282811754.JavaMail.centrodeinformacion@edenor.com>
+Subject: =?ISO-8859-1?Q?Informaci=F3n_sobre_situaci=F3n_de_d?=
+ =?ISO-8859-1?Q?ocumentos_MTAT_informados_al_ENRE?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_0_2823064.1537282811438"
+
+------=_Part_0_2823064.1537282811438
+Content-Type: image/gif; name=Logo_edenor.gif
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=Logo_edenor.gif
+
+R0lGODdhRwAPAHcAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACwAAAAARwAPAIf3//et
+nOYhY60pjNZrrd5KjNatzubO1u/v3hApEN6t3hDvnBApEJytnBDvlKXO3hAIEN6M3hDOnBAIEJyM
+nBDOlKUIY86Mzubv5sXv5pzvlOYpY4zO5sXO5pzOlOaMlOYIjN4Aa7Xv5u8pY85Krd4AWpRrjN6M
+td4AWrVr797va95ra97v72Nra1pr71rva1rv3jEp796ta94pa1op71qta1opMd6t3jEprd7vKd5r
+Kd6t72NrKVprrVrvKVqtKd4pKVoprVqtKVrvnDEpMZytnDFrrZwprZxr75zva5xra5zvrWNraxlr
+7xnvaxkp75yta5wpaxkp7xmtaxnvKZxrKZytrWNrKRlrrRnvKRmtKZwpKRkprRmtKRnvtaWt76Wt
+raUIrd5K797Oa95Ka97O72NKa1pK71rOa1oI796Ma94Ia1oI71qMa1rOKd5KKd6M72NKKVpKrVrO
+KVqMKd4IKVoIrVqMKVpKrZwIrZxK75zOa5xKa5zOrWNKaxlK7xnOaxkI75yMa5wIaxkI7xmMaxnO
+KZxKKZyMrWNKKRlKrRnOKRmMKZwIKRkIrRmMKRmM76WMraVrzt7vSt5rSt7vzmNrSlprzlrvSlrO
+3jEpzt6tSt4pSlopzlqtSloIMd6M3jHvCN5rCN6tzmNrCFprjFrvCFqtCN4pCFopjFqtCFrOnDEI
+MZyMnDFrjJwpjJxrzpzvSpxrSpzvjGNrShlrzhnvShkpzpytSpwpShkpzhmtShnvCJxrCJytjGNr
+CBlrjBnvCBmtCJwpCBkpjBmtCBnOtaWtzqWtjKVKzt7OSt5KSt7OzmNKSlpKzlrOSloIzt6MSt4I
+SloIzlqMSlrOCN5KCN6MzmNKCFpKjFrOCFqMCN4ICFoIjFqMCFpKjJwIjJxKzpzOSpxKSpzOjGNK
+ShlKzhnOShkIzpyMSpwIShkIzhmMShnOCJxKCJyMjGNKCBlKjBnOCBmMCJwICBkIjBmMCBmMzqWM
+jKXW7++t7+YpY+/vteaM7+YIY+/OteYI/wABADgwANyAgwUHHBBYwCDCASBOCJwo8EIIECIoatzI
+saNHAiEshBgZUuHAASRHlkBhgKMJFAI8ypwp08TIASRQhiiQ8UAIFAMIuCpQwMRCjSJQFqDJtGm+
+AhdPHAAZgkBFkS0n5pt44IIBEfkEoLjA1YBUiiIO9DzxFe2BExeOcl17MiSeC1CrCgQ5Qi5FAyNQ
+AD0QuKWIE2ItCLC6V0ABAoItkMg4ECqKEAJMTCSwuIBjAAZGGrQAjvRRyAMMHDDAWqDPyyNCoBSw
+ELKFAZYlJg05wvPIloRHFogdQiKAAihEolh4AaUFECEvHs3rPETf45cv5DtxM19Yvfkgj/8Aq1N7
+6BAtkRf3PgDF+OPCT2SkShJ6gYUEU44UkC+4ZgBJocDTCe7pIxB3IfQXG2NhWXCAT3odOJJayBWw
+lUA2XaThTgJ9RwJcJ8A10G8TtWcVVUT55qA+Yh11gGJdkVjRhGGNRZFOIYADXYQGYLURd/wJJMII
+JcinkwAjjSDAAPlYFCQA3DFp0wgXQqlYkzBqpRMIO0bI2XIbWeRghyORBZWFB3jnnQioUXZmeLLJ
+xdd2slUJ4Y46hnBaSAZ4l+ZCCBpGgnULvXngWZBZCCBUVhFYnEA9okAClEBRNmJ9IgUpAnW4DTDC
+AGDFNgIBeekJmmAE4CXYCfm0txQArYZk8J9Yo35J26YCUmQCkpiNhAIZW+UTmABiCcYKqABAluQA
+AlAJq3o/OZaWWMYZQG1FvCZJVo0EWHoBWwZ8a1ZW+Zj1LVvfHiWCAbilydZE6xZ0X4fpdhhilfmY
+AMIA8k0Uol8BAQA7
+------=_Part_0_2823064.1537282811438
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style id=3D'Mail_Styles'><!--table.xl1530982=09{padding:0px; =
+=09mso-ignore:padding; =09color:black; =09font-size:11.0pt; =09font-weight:=
+400; =09font-style:normal; =09text-decoration:none; =09font-family:Calibri,=
+ sans-serif; =09mso-font-charset:0; =09mso-number-format:General; =09text-a=
+lign:general; =09vertical-align:bottom; =09mso-background-source:auto; =09m=
+so-pattern:auto; =09white-space:nowrap;}.xl6530982=09{padding:0px; =09mso-i=
+gnore:padding; =09color:black; =09font-size:11.0pt; =09font-weight:700; =09=
+font-style:normal; =09text-decoration:none; =09font-family:Calibri, sans-se=
+rif; =09mso-font-charset:0; =09mso-number-format:General; =09text-align:gen=
+eral; =09vertical-align:middle; =09border-top:1.0pt solid windowtext; =09bo=
+rder-right:.5pt solid windowtext; =09border-bottom:1.0pt solid windowtext; =
+=09border-left:1.0pt solid windowtext; =09background:#FFC000; =09mso-patter=
+n:black none; =09white-space:nowrap;}.xl6630982=09{padding:5px; =09color:bl=
+ack; =09font-size:10pt; =09font-weight:700; =09font-style:normal; =09text-d=
+ecoration:none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =
+=09mso-number-format:General; =09text-align:center; =09vertical-align:middl=
+e; =09border-top:1.0pt solid windowtext; =09border-right:.5pt solid windowt=
+ext; =09border-bottom:1.0pt solid windowtext; =09border-left:.5pt solid win=
+dowtext; =09background:#C5D9F1; =09mso-pattern:black none; =09white-space:n=
+owrap;}.xl6730982=09{padding:0px; =09mso-ignore:padding; =09color:black; =
+=09font-size:11.0pt; =09font-weight:700; =09font-style:normal; =09text-deco=
+ration:none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09=
+mso-number-format:General; =09text-align:right; =09vertical-align:middle; =
+=09border-top:1.0pt solid windowtext; =09border-right:1.0pt solid windowtex=
+t; =09border-bottom:1.0pt solid windowtext; =09border-left:.5pt solid windo=
+wtext; =09background:#FFC000; =09mso-pattern:black none; =09white-space:now=
+rap;}.xl6830982=09{padding:5px; =09mso-ignore:padding; =09color:black; =09f=
+ont-size:10.0pt; =09font-weight:400; =09font-style:normal; =09text-decorati=
+on:none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-=
+number-format:General; =09text-align:general; =09vertical-align:middle; =09=
+border-top:1.0pt solid windowtext; =09border-right:.5pt solid windowtext; =
+=09border-bottom:.5pt solid windowtext; =09border-left:.5pt solid windowtex=
+t; =09mso-background-source:auto; =09mso-pattern:auto; =09white-space:nowra=
+p;}.xl6930982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09fon=
+t-size:11.0pt; =09font-weight:400; =09font-style:normal; =09text-decoration=
+:none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-nu=
+mber-format:'General Date'; =09text-align:general; =09vertical-align:middle=
+; =09border-top:1.0pt solid windowtext; =09border-right:.5pt solid windowte=
+xt; =09border-bottom:.5pt solid windowtext; =09border-left:.5pt solid windo=
+wtext; =09mso-background-source:auto; =09mso-pattern:auto; =09white-space:n=
+owrap;}.xl7030982=09{padding:0px; =09mso-ignore:padding; =09color:black; =
+=09font-size:11.0pt; =09font-weight:400; =09font-style:normal; =09text-deco=
+ration:none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09=
+mso-number-format:'Short Time'; =09text-align:general; =09vertical-align:mi=
+ddle; =09border-top:1.0pt solid windowtext; =09border-right:1.0pt solid win=
+dowtext; =09border-bottom:.5pt solid windowtext; =09border-left:.5pt solid =
+windowtext; =09mso-background-source:auto; =09mso-pattern:auto; =09white-sp=
+ace:nowrap;}.xl7130982=09{padding:0px; =09mso-ignore:padding; =09color:blac=
+k; =09font-size:11.0pt; =09font-weight:400; =09font-style:normal; =09text-d=
+ecoration:none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =
+=09mso-number-format:General; =09text-align:general; =09vertical-align:midd=
+le; =09border:.5pt solid windowtext; =09mso-background-source:auto; =09mso-=
+pattern:auto; =09white-space:nowrap;}.xl7230982=09{padding:0px; =09mso-igno=
+re:padding; =09color:black; =09font-size:11.0pt; =09font-weight:400; =09fon=
+t-style:normal; =09text-decoration:none; =09font-family:Calibri, sans-serif=
+; =09mso-font-charset:0; =09mso-number-format:'General Date'; =09text-align=
+:general; =09vertical-align:middle; =09border:.5pt solid windowtext; =09mso=
+-background-source:auto; =09mso-pattern:auto; =09white-space:nowrap;}.xl733=
+0982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09font-size:11=
+..0pt; =09font-weight:400; =09font-style:normal; =09text-decoration:none; =
+=09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-number-fo=
+rmat:'Short Time'; =09text-align:general; =09vertical-align:middle; =09bord=
+er-top:.5pt solid windowtext; =09border-right:1.0pt solid windowtext; =09bo=
+rder-bottom:.5pt solid windowtext; =09border-left:.5pt solid windowtext; =
+=09mso-background-source:auto; =09mso-pattern:auto; =09white-space:nowrap;}=
+..xl7430982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09font-s=
+ize:11.0pt; =09font-weight:400; =09font-style:normal; =09text-decoration:no=
+ne; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-numbe=
+r-format:General; =09text-align:general; =09vertical-align:middle; =09borde=
+r-top:.5pt solid windowtext; =09border-right:.5pt solid windowtext; =09bord=
+er-bottom:1.0pt solid windowtext; =09border-left:.5pt solid windowtext; =09=
+mso-background-source:auto; =09mso-pattern:auto; =09white-space:nowrap;}.xl=
+7530982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09font-size=
+:11.0pt; =09font-weight:400; =09font-style:normal; =09text-decoration:none;=
+ =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-number-f=
+ormat:'General Date'; =09text-align:general; =09vertical-align:middle; =09b=
+order-top:.5pt solid windowtext; =09border-right:.5pt solid windowtext; =09=
+border-bottom:1.0pt solid windowtext; =09border-left:.5pt solid windowtext;=
+ =09mso-background-source:auto; =09mso-pattern:auto; =09white-space:nowrap;=
+}.xl7630982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09font-=
+size:11.0pt; =09font-weight:400; =09font-style:normal; =09text-decoration:n=
+one; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-numb=
+er-format:'Short Time'; =09text-align:general; =09vertical-align:middle; =
+=09border-top:.5pt solid windowtext; =09border-right:1.0pt solid windowtext=
+; =09border-bottom:1.0pt solid windowtext; =09border-left:.5pt solid window=
+text; =09mso-background-source:auto; =09mso-pattern:auto; =09white-space:no=
+wrap;}.xl7730982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09=
+font-size:12.0pt; =09font-weight:400; =09font-style:normal; =09text-decorat=
+ion:none; =09font-family:'Times New Roman', serif; =09mso-font-charset:0; =
+=09mso-number-format:General; =09text-align:general; =09vertical-align:bott=
+om; =09mso-background-source:auto; =09mso-pattern:auto; =09white-space:nowr=
+ap;}.xl7830982=09{padding:5px; =09mso-ignore:padding; =09color:black; =09fo=
+nt-size:11.0pt; =09font-weight:400; =09font-style:normal; =09text-decoratio=
+n:none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-n=
+umber-format:General; =09text-align:general; =09vertical-align:middle; =09b=
+order-top:1.0pt solid windowtext; =09border-right:.5pt solid windowtext; =
+=09border-bottom:.5pt solid windowtext; =09border-left:1.0pt solid windowte=
+xt; =09background:#C5D9F1; =09mso-pattern:black none; =09white-space:nowrap=
+;}.xl7930982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09font=
+-size:11.0pt; =09font-weight:400; =09font-style:normal; =09text-decoration:=
+none; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-num=
+ber-format:General; =09text-align:general; =09vertical-align:middle; =09bor=
+der-top:.5pt solid windowtext; =09border-right:.5pt solid windowtext; =09bo=
+rder-bottom:.5pt solid windowtext; =09border-left:1.0pt solid windowtext; =
+=09background:#C5D9F1; =09mso-pattern:black none; =09white-space:nowrap;}.x=
+l8030982=09{padding:0px; =09mso-ignore:padding; =09color:black; =09font-siz=
+e:11.0pt; =09font-weight:400; =09font-style:normal; =09text-decoration:none=
+; =09font-family:Calibri, sans-serif; =09mso-font-charset:0; =09mso-number-=
+format:General; =09text-align:general; =09vertical-align:middle; =09border-=
+top:.5pt solid windowtext; =09border-right:.5pt solid windowtext; =09border=
+-bottom:1.0pt solid windowtext; =09border-left:1.0pt solid windowtext; =09b=
+ackground:#C5D9F1; =09mso-pattern:black none; =09white-space:nowrap;}.padde=
+d=09{padding:5px; =09color:black; =09font-size:10.0pt; =09font-weight:400; =
+=09font-style:normal; =09text-decoration:none; =09font-family:Calibri, sans=
+-serif; =09mso-font-charset:0; =09mso-number-format:General; =09text-align:=
+general; =09vertical-align:middle; =09border-top:.5pt solid windowtext; =09=
+border-right:.5pt solid windowtext; =09border-bottom:1.0pt solid windowtext=
+; =09border-left:1.0pt solid windowtext; =09background:#C5D9F1; =09mso-patt=
+ern:black none; =09white-space:nowrap;}--></style></head><body><div id=3D'M=
+ail_body' align=3Dleft><table border=3D0 cellpadding=3D0 cellspacing=3D0 wi=
+dth=3D494 style=3D'border-collapse: collapse;table-layout:auto;width:371pt'=
+> <tr height=3D21 style=3D'height:15.75pt'>  <td height=3D21 class=3Dxl7730=
+982 colspan=3D9 width=3D494 style=3D'height:15.75pt;width:371pt'>IMPORTANTE=
+: El presente es un mail autom=E1tico que informa situaci=F3n de documentos=
+ MTAT informados al ENRE<br>Hora Extracto: 18/09/2018 12:00:05<br></td> </t=
+r> <tr height=3D21 style=3D'height:15.75pt'>  <td height=3D21 class=3Dxl153=
+0982 style=3D'height:15.75pt' colspan=3D5 ></td> </tr> <tr height=3D27 styl=
+e=3D'mso-height-source:userset;height:20.25pt'>  <td height=3D27 class=3Dxl=
+6630982 style=3D'height:20.25pt'>REGION</td>  <td height=3D27 class=3Dxl663=
+0982 style=3D'height:20.25pt'>ZONA</td>  <td class=3Dxl6630982 style=3D'bor=
+der-left:none'>SUBEST</td>  <td class=3Dxl6630982 style=3D'border-left:none=
+'>CLI_ACTU</td>  <td class=3Dxl6630982 style=3D'border-left:none'>CT_ACTU</=
+td>  <td class=3Dxl6630982 style=3D'border-left:none'>DOCUMENTO</td>  <td c=
+lass=3Dxl6630982 style=3D'border-left:none'>ALIM</td>  <td class=3Dxl663098=
+2 style=3D'border-left:none'>HORA INICIO</td>  <td class=3Dxl6630982 style=
+=3D'border-left:none'>CLI_INIC</td>  <td class=3Dxl6630982 style=3D'border-=
+left:none'>CT_INIC</td>  <td class=3Dxl6630982 style=3D'border-left:none'>T=
+IPO</td> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt'=
+> <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R1</td> <td he=
+ight=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>SAN MARTIN</td><td cla=
+ss=3Dxl6830982 align=3Dright style=3D'border-left:none'>SUAREZ</td>  <td cl=
+ass=3Dxl6830982 align=3Dright style=3D'border-left:none'>422</td>  <td clas=
+s=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td>  <td class=3D=
+xl6830982 align=3Dright style=3D'border-left:none'>D-18-09-030157</td>  <td=
+ class=3Dxl6830982 align=3Dright style=3D'border-left:none'>26618</td>  <td=
+ class=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018 02:4=
+2:33</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>2=
+678</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>6<=
+/td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>F</td>=
+ </tr> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt'> =
+<td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R2</td> <td heig=
+ht=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>MATANZA</td><td class=3D=
+xl6830982 align=3Dright style=3D'border-left:none'>S/N</td>  <td class=3Dxl=
+6830982 align=3Dright style=3D'border-left:none'>419</td>  <td class=3Dxl68=
+30982 align=3Dright style=3D'border-left:none'>1</td>  <td class=3Dxl683098=
+2 align=3Dright style=3D'border-left:none'>D-18-09-029288</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>36526</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018 10:43:50</=
+td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>419</td=
+>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td>  <=
+td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>P</td> </tr> =
+<tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td hei=
+ght=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R2</td> <td height=3D27=
+ class=3Dxl7830982 style=3D'height:20.25pt'>MATANZA</td><td class=3Dxl68309=
+82 align=3Dright style=3D'border-left:none'>EL PINO</td>  <td class=3Dxl683=
+0982 align=3Dright style=3D'border-left:none'>466</td>  <td class=3Dxl68309=
+82 align=3Dright style=3D'border-left:none'>22</td>  <td class=3Dxl6830982 =
+align=3Dright style=3D'border-left:none'>D-18-09-030237</td>  <td class=3Dx=
+l6830982 align=3Dright style=3D'border-left:none'>35322/35324</td>  <td cla=
+ss=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018 07:42:38=
+</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>2620<=
+/td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>51</td=
+>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>F</td> </=
+tr> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td=
+ height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R2</td> <td height=
+=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>MORON</td><td class=3Dxl68=
+30982 align=3Dright style=3D'border-left:none'>RAMOS MEJIA</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>367</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td>  <td class=3Dx=
+l6830982 align=3Dright style=3D'border-left:none'>D-18-09-029281</td>  <td =
+class=3Dxl6830982 align=3Dright style=3D'border-left:none'>6631</td>  <td c=
+lass=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018 10:13:=
+32</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>367=
+</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td=
+>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>P</td> </=
+tr> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td=
+ height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td height=
+=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>MORENO</td><td class=3Dxl6=
+830982 align=3Dright style=3D'border-left:none'>MALVINAS</td>  <td class=3D=
+xl6830982 align=3Dright style=3D'border-left:none'>526</td>  <td class=3Dxl=
+6830982 align=3Dright style=3D'border-left:none'>11</td>  <td class=3Dxl683=
+0982 align=3Dright style=3D'border-left:none'>D-18-09-029248</td>  <td clas=
+s=3Dxl6830982 align=3Dright style=3D'border-left:none'>16975/16971</td>  <t=
+d class=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018 08:=
+17:08</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>=
+2459</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>1=
+03</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>P</=
+td> </tr> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt=
+'> <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td h=
+eight=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>PILAR</td><td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>MANZONE</td>  <td cla=
+ss=3Dxl6830982 align=3Dright style=3D'border-left:none'>21</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td>  <td class=3Dx=
+l6830982 align=3Dright style=3D'border-left:none'>D-18-09-029236</td>  <td =
+class=3Dxl6830982 align=3Dright style=3D'border-left:none'>25720/25722</td>=
+  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018=
+ 10:13:04</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:no=
+ne'>21</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'=
+>1</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>P</=
+td> </tr> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt=
+'> <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td h=
+eight=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>PILAR</td><td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>TORTUGUITA</td>  <td =
+class=3Dxl6830982 align=3Dright style=3D'border-left:none'>34</td>  <td cla=
+ss=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>D-18-09-029251</td>  =
+<td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>25241</td>  =
+<td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018 0=
+9:36:50</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none=
+'>34</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>1=
+</td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>P</td=
+> </tr> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25pt'>=
+ <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td hei=
+ght=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>PILAR</td><td class=3Dx=
+l6830982 align=3Dright style=3D'border-left:none'>BENAVIDEZ</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td>  <td class=3Dx=
+l6830982 align=3Dright style=3D'border-left:none'>1</td>  <td class=3Dxl683=
+0982 align=3Dright style=3D'border-left:none'>D-18-09-029275</td>  <td clas=
+s=3Dxl6830982 align=3Dright style=3D'border-left:none'>5913</td>  <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>18/09/2018 09:08:27</=
+td>  <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td> =
+ <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>1</td>  <td=
+ class=3Dxl6830982 align=3Dright style=3D'border-left:none'>P</td> </tr> <t=
+r height=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td heigh=
+t=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td height=3D27 c=
+lass=3Dxl7830982 style=3D'height:20.25pt'>TIGRE</td><td class=3Dxl6830982 a=
+lign=3Dright style=3D'border-left:none'>TIGRE</td>  <td class=3Dxl6830982 a=
+lign=3Dright style=3D'border-left:none'>3</td>  <td class=3Dxl6830982 align=
+=3Dright style=3D'border-left:none'>1</td>  <td class=3Dxl6830982 align=3Dr=
+ight style=3D'border-left:none'>D-18-09-029304</td>  <td class=3Dxl6830982 =
+align=3Dright style=3D'border-left:none'>15323</td>  <td class=3Dxl6830982 =
+align=3Dright style=3D'border-left:none'>18/09/2018 07:44:35</td>  <td clas=
+s=3Dxl6830982 align=3Dright style=3D'border-left:none'>3</td>  <td class=3D=
+xl6830982 align=3Dright style=3D'border-left:none'>1</td>  <td class=3Dxl68=
+30982 align=3Dright style=3D'border-left:none'>P</td> </tr> <tr height=3D27=
+ style=3D'mso-height-source:userset;height:20.25pt'> <td height=3D27 class=
+=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td height=3D27 class=3Dxl783=
+0982 style=3D'height:20.25pt'>TIGRE</td><td class=3Dxl6830982 align=3Dright=
+ style=3D'border-left:none'>TALAR</td>  <td class=3Dxl6830982 align=3Dright=
+ style=3D'border-left:none'>555</td>  <td class=3Dxl6830982 align=3Dright s=
+tyle=3D'border-left:none'>3</td>  <td class=3Dxl6830982 align=3Dright style=
+=3D'border-left:none'>D-18-09-030258</td>  <td class=3Dxl6830982 align=3Dri=
+ght style=3D'border-left:none'>5845/5838</td>  <td class=3Dxl6830982 align=
+=3Dright style=3D'border-left:none'>18/09/2018 08:05:37</td>  <td class=3Dx=
+l6830982 align=3Dright style=3D'border-left:none'>1092</td>  <td class=3Dxl=
+6830982 align=3Dright style=3D'border-left:none'>9</td>  <td class=3Dxl6830=
+982 align=3Dright style=3D'border-left:none'>F</td> </tr> <tr height=3D20 s=
+tyle=3D'height:15.0pt'>  <td height=3D20 class=3Dxl1530982 style=3D'height:=
+15.0pt' colspan=3D5 ></td> </tr></table><table border=3D0 cellpadding=3D0 c=
+ellspacing=3D0 style=3D'border-collapse: collapse;table-layout:auto;width:1=
+50pt'> <tr height=3D21 style=3D'height:15.75pt'>  <td height=3D21 class=3Dx=
+l1530982 style=3D'height:15.75pt' colspan=3D2 ></td> </tr> <tr height=3D27 =
+style=3D'mso-height-source:userset;height:20.25pt'>  <td height=3D27 class=
+=3Dxl6630982 style=3D'height:20.25pt'>REGION</td>  <td height=3D27 class=3D=
+xl6630982 style=3D'height:20.25pt'>ZONA</td>  <td height=3D27 class=3Dxl663=
+0982 style=3D'height:20.25pt'>CLIENTES FS FORZ.</td>  <td height=3D27 class=
+=3Dxl6630982 style=3D'height:20.25pt'>CLIENTES FS PROGR.</td>  <td class=3D=
+xl6630982 style=3D'border-left:none'>CLIENTES FS ACTUALES</td> </tr> <tr he=
+ight=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td height=3D=
+27 class=3Dxl7830982 style=3D'height:20.25pt'>R1</td> <td height=3D27 class=
+=3Dxl7830982 style=3D'height:20.25pt'>CABA</td> <td class=3Dxl6830982 align=
+=3Dright style=3D'border-left:none'>0</td> <td class=3Dxl6830982 align=3Dri=
+ght style=3D'border-left:none'>0</td> <td class=3Dxl6830982 align=3Dright s=
+tyle=3D'border-left:none'>0</td> </tr> <tr height=3D27 style=3D'mso-height-=
+source:userset;height:20.25pt'> <td height=3D27 class=3Dxl7830982 style=3D'=
+height:20.25pt'>R1</td> <td height=3D27 class=3Dxl7830982 style=3D'height:2=
+0.25pt'>OLIVOS</td> <td class=3Dxl6830982 align=3Dright style=3D'border-lef=
+t:none'>0</td> <td class=3Dxl6830982 align=3Dright style=3D'border-left:non=
+e'>0</td> <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>0<=
+/td> </tr> <tr height=3D27 style=3D'mso-height-source:userset;height:20.25p=
+t'> <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R1</td> <td =
+height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>SAN MARTIN</td> <td =
+class=3Dxl6830982 align=3Dright style=3D'border-left:none'>422</td> <td cla=
+ss=3Dxl6830982 align=3Dright style=3D'border-left:none'>0</td> <td class=3D=
+xl6830982 align=3Dright style=3D'border-left:none'>422</td> </tr> <tr heigh=
+t=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td height=3D27 =
+class=3Dxl7830982 style=3D'height:20.25pt'>R2</td> <td height=3D27 class=3D=
+xl7830982 style=3D'height:20.25pt'>MATANZA</td> <td class=3Dxl6830982 align=
+=3Dright style=3D'border-left:none'>466</td> <td class=3Dxl6830982 align=3D=
+right style=3D'border-left:none'>419</td> <td class=3Dxl6830982 align=3Drig=
+ht style=3D'border-left:none'>885</td> </tr> <tr height=3D27 style=3D'mso-h=
+eight-source:userset;height:20.25pt'> <td height=3D27 class=3Dxl7830982 sty=
+le=3D'height:20.25pt'>R2</td> <td height=3D27 class=3Dxl7830982 style=3D'he=
+ight:20.25pt'>MERLO</td> <td class=3Dxl6830982 align=3Dright style=3D'borde=
+r-left:none'>0</td> <td class=3Dxl6830982 align=3Dright style=3D'border-lef=
+t:none'>0</td> <td class=3Dxl6830982 align=3Dright style=3D'border-left:non=
+e'>0</td> </tr> <tr height=3D27 style=3D'mso-height-source:userset;height:2=
+0.25pt'> <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R2</td>=
+ <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>MORON</td> <td =
+class=3Dxl6830982 align=3Dright style=3D'border-left:none'>0</td> <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>367</td> <td class=3D=
+xl6830982 align=3Dright style=3D'border-left:none'>367</td> </tr> <tr heigh=
+t=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td height=3D27 =
+class=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td height=3D27 class=3D=
+xl7830982 style=3D'height:20.25pt'>MORENO</td> <td class=3Dxl6830982 align=
+=3Dright style=3D'border-left:none'>0</td> <td class=3Dxl6830982 align=3Dri=
+ght style=3D'border-left:none'>526</td> <td class=3Dxl6830982 align=3Dright=
+ style=3D'border-left:none'>526</td> </tr> <tr height=3D27 style=3D'mso-hei=
+ght-source:userset;height:20.25pt'> <td height=3D27 class=3Dxl7830982 style=
+=3D'height:20.25pt'>R3</td> <td height=3D27 class=3Dxl7830982 style=3D'heig=
+ht:20.25pt'>PILAR</td> <td class=3Dxl6830982 align=3Dright style=3D'border-=
+left:none'>0</td> <td class=3Dxl6830982 align=3Dright style=3D'border-left:=
+none'>56</td> <td class=3Dxl6830982 align=3Dright style=3D'border-left:none=
+'>56</td> </tr> <tr height=3D27 style=3D'mso-height-source:userset;height:2=
+0.25pt'> <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>R3</td>=
+ <td height=3D27 class=3Dxl7830982 style=3D'height:20.25pt'>SAN MIGUEL</td>=
+ <td class=3Dxl6830982 align=3Dright style=3D'border-left:none'>0</td> <td =
+class=3Dxl6830982 align=3Dright style=3D'border-left:none'>0</td> <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>0</td> </tr> <tr heig=
+ht=3D27 style=3D'mso-height-source:userset;height:20.25pt'> <td height=3D27=
+ class=3Dxl7830982 style=3D'height:20.25pt'>R3</td> <td height=3D27 class=
+=3Dxl7830982 style=3D'height:20.25pt'>TIGRE</td> <td class=3Dxl6830982 alig=
+n=3Dright style=3D'border-left:none'>555</td> <td class=3Dxl6830982 align=
+=3Dright style=3D'border-left:none'>3</td> <td class=3Dxl6830982 align=3Dri=
+ght style=3D'border-left:none'>558</td> </tr> <tr height=3D27 style=3D'mso-=
+height-source:userset;height:20.25pt'> <td height=3D27 class=3Dxl7830982 st=
+yle=3D'height:20.25pt; font-weight: bold'>TOTAL</td> <td height=3D27 class=
+=3Dxl7830982 style=3D'height:20.25pt; font-weight: bold'> </td> <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>1443</td> <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>1371</td> <td class=
+=3Dxl6830982 align=3Dright style=3D'border-left:none'>2814</td> </tr></tabl=
+e> <br> <hr> <br><table border=3D0 cellpadding=3D5px cellspacing=3D0 width=
+=3D494 style=3D'border-collapse: collapse;table-layout:auto;width:371pt'> <=
+tr height=3D20 style=3D'height:15.0pt'>  <td height=3D20 style=3D'height:15=
+..0pt' align=3Dleft valign=3Dtop colspan=3D5 >  <span style=3D'mso-ignore:vg=
+layout;position:absolute;z-index:1;margin-left:3px;margin-top:3px;width:71p=
+x;height:15px'>  <img width=3D71 height=3D15 src=3D'Logo_edenor.gif'  alt=
+=3D'Descripci=C3=B3n: logo de Edenor' ></span>  </td> </tr></table></div></=
+body></html>
+------=_Part_0_2823064.1537282811438--
+
+.
+250 2.6.0 <14244.01537282811754.JavaMail.centrodeinformacion@edenor.com> [InternalId=69788923592755, Hostname=SRVTROHCAS006.pro.edenor] 30571 bytes in 0.123, 242,119 KB/sec Queued mail for delivery
+final 
+Final One
+
+Procedimiento MAIL terminado exitosamente

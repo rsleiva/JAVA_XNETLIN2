@@ -1,0 +1,3 @@
+#cd /ias/GruposElectro
+#/usr/java/jre1.8.0_131/bin/java -Duser.timezone=GMT-3:00 -classpath .:/lib/ojdbc14.jar:/lib/org.apache.poi-poi-3.8.jar:/lib/dom4j-1.6.1.jar:/lib/poi-ooxml-3.7-20101029.jar:/lib/poi-ooxml-schemas-3.7-20101029.jar:/lib/xmlbeans-2.3.0.jar:/lib/commons-net-3.3.jar:/lib/jcifs-1.3.18.jar GruposElectrogenos
+/usr/java/jre1.8.0_131/bin/java -Duser.timezone=GMT-3:00 -jar GruposElectrogenos.jar

@@ -1,0 +1,194 @@
+may 19, 2023 10:34:00 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:  ---------  Comenzando Proceso Batch         ----------
+may 19, 2023 10:34:01 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Final raster OK
+may 19, 2023 10:34:01 AM Llam_mail_WS_sondeos <init>
+INFORMACIÓN: Error en Llam_mail_WS_sondeos() : {0}
+java.lang.NullPointerException
+	at Llam_mail_WS_sondeos.raster(Llam_mail_WS_sondeos.java:866)
+	at Llam_mail_WS_sondeos.<init>(Llam_mail_WS_sondeos.java:881)
+	at Llam_mail_WS_sondeos.main(Llam_mail_WS_sondeos.java:1150)
+
+may 19, 2023 10:34:01 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:    Procedimiento MAIL terminado Con error{0}
+java.lang.NullPointerException
+	at Llam_mail_WS_sondeos.raster(Llam_mail_WS_sondeos.java:866)
+	at Llam_mail_WS_sondeos.<init>(Llam_mail_WS_sondeos.java:881)
+	at Llam_mail_WS_sondeos.main(Llam_mail_WS_sondeos.java:1150)
+
+may 19, 2023 10:34:01 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:  ---------  Proceso Finalizado Con ERROR     ----------
+may 19, 2023 10:34:25 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:  ---------  Comenzando Proceso Batch         ----------
+may 19, 2023 10:37:55 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Conexion exitosa a la base
+may 19, 2023 10:37:58 AM Llam_mail_WS_sondeos buscarErrorDNS
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorDNS
+may 19, 2023 10:37:59 AM Llam_mail_WS_sondeos buscarErrorDNS
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorDNS
+may 19, 2023 10:38:08 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorDNS
+may 19, 2023 10:38:09 AM Llam_mail_WS_sondeos buscarErrorUSER
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorUSER
+may 19, 2023 10:38:09 AM Llam_mail_WS_sondeos buscarErrorUSER
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorUSER
+may 19, 2023 10:38:26 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorUSER
+may 19, 2023 10:38:27 AM Llam_mail_WS_sondeos buscarErrorEstado
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorEstado
+may 19, 2023 10:38:27 AM Llam_mail_WS_sondeos buscarErrorEstado
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorEstado
+may 19, 2023 10:38:31 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorEstado
+may 19, 2023 10:38:33 AM Llam_mail_WS_sondeos buscarErrorFound
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorFound
+may 19, 2023 10:38:33 AM Llam_mail_WS_sondeos buscarErrorFound
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorFound
+may 19, 2023 10:38:35 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorFound
+may 19, 2023 10:38:36 AM Llam_mail_WS_sondeos buscarErrorGateway
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorGateway
+may 19, 2023 10:38:36 AM Llam_mail_WS_sondeos buscarErrorGateway
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorGateway
+may 19, 2023 10:38:45 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorGateway
+may 19, 2023 10:38:46 AM Llam_mail_WS_sondeos buscarErrorHost
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorHost
+may 19, 2023 10:38:46 AM Llam_mail_WS_sondeos buscarErrorHost
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorHost
+may 19, 2023 10:38:53 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorHost
+may 19, 2023 10:38:54 AM Llam_mail_WS_sondeos buscarDOBLEINV
+INFORMACIÓN:    Inicio la extraccion de datos: buscarDOBLEINV
+may 19, 2023 10:39:00 AM Llam_mail_WS_sondeos buscarDOBLEINV
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarDOBLEINV
+may 19, 2023 10:39:06 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarDOBLEINV
+may 19, 2023 10:39:14 AM Llam_mail_WS_sondeos buscarhora
+INFORMACIÓN: Inicio la extraccion de datos: buscarhora
+may 19, 2023 10:39:26 AM Llam_mail_WS_sondeos buscarhora
+INFORMACIÓN: Finaliza la extraccion de datos: buscarhora
+may 19, 2023 10:39:37 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Final raster OK
+may 19, 2023 10:39:59 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:    Procedimiento MAIL terminado exitosamente
+may 19, 2023 10:40:00 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:  ---------  Proceso Finalizado Correctamente ----------
+may 19, 2023 10:45:02 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:  ---------  Comenzando Proceso Batch         ----------
+may 19, 2023 10:45:54 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:  ---------  Comenzando Proceso Batch         ----------
+may 19, 2023 11:00:06 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Conexion exitosa a la base
+may 19, 2023 11:26:59 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:  ---------  Comenzando Proceso Batch         ----------
+may 19, 2023 11:27:11 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Conexion exitosa a la base
+may 19, 2023 11:27:11 AM Llam_mail_WS_sondeos buscarErrorDNS
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorDNS
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorDNS
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorDNS
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorDNS
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorUSER
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorUSER
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorUSER
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorUSER
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorUSER
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorEstado
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorEstado
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorEstado
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorEstado
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorEstado
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorFound
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorFound
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorFound
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorFound
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorFound
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorGateway
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorGateway
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorGateway
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorGateway
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorGateway
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorHost
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorHost
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarErrorHost
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorHost
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorHost
+may 19, 2023 11:27:12 AM Llam_mail_WS_sondeos buscarDOBLEINV
+INFORMACIÓN:    Inicio la extraccion de datos: buscarDOBLEINV
+may 19, 2023 11:27:18 AM Llam_mail_WS_sondeos buscarDOBLEINV
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarDOBLEINV
+may 19, 2023 11:27:18 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarDOBLEINV
+may 19, 2023 11:27:18 AM Llam_mail_WS_sondeos buscarhora
+INFORMACIÓN: Inicio la extraccion de datos: buscarhora
+may 19, 2023 11:27:18 AM Llam_mail_WS_sondeos buscarhora
+INFORMACIÓN: Finaliza la extraccion de datos: buscarhora
+may 19, 2023 11:27:18 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Final raster OK
+may 19, 2023 11:27:18 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:    Procedimiento MAIL terminado exitosamente
+may 19, 2023 11:27:18 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:  ---------  Proceso Finalizado Correctamente ----------
+may 19, 2023 11:28:09 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:  ---------  Comenzando Proceso Batch         ----------
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Conexion exitosa a la base
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorDNS
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorDNS
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorDNS
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorDNS
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorDNS
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorUSER
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorUSER
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorUSER
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorUSER
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorUSER
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorEstado
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorEstado
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorEstado
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorEstado
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorEstado
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorFound
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorFound
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorFound
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorFound
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorFound
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorGateway
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorGateway
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorGateway
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorGateway
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorGateway
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorHost
+INFORMACIÓN:    Inicio la extraccion de datos: buscarErrorHost
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarErrorHost
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarErrorHost
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarErrorHost
+may 19, 2023 11:28:10 AM Llam_mail_WS_sondeos buscarDOBLEINV
+INFORMACIÓN:    Inicio la extraccion de datos: buscarDOBLEINV
+may 19, 2023 11:28:11 AM Llam_mail_WS_sondeos buscarDOBLEINV
+INFORMACIÓN:    Finaliza la extraccion de datos: buscarDOBLEINV
+may 19, 2023 11:28:11 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN:    No devolvio datos: buscarDOBLEINV
+may 19, 2023 11:28:11 AM Llam_mail_WS_sondeos buscarhora
+INFORMACIÓN: Inicio la extraccion de datos: buscarhora
+may 19, 2023 11:28:11 AM Llam_mail_WS_sondeos buscarhora
+INFORMACIÓN: Finaliza la extraccion de datos: buscarhora
+may 19, 2023 11:28:11 AM Llam_mail_WS_sondeos raster
+INFORMACIÓN: Final raster OK
+may 19, 2023 11:28:11 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:    Procedimiento MAIL terminado exitosamente
+may 19, 2023 11:28:11 AM Llam_mail_WS_sondeos main
+INFORMACIÓN:  ---------  Proceso Finalizado Correctamente ----------

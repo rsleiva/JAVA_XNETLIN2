@@ -1,0 +1,2 @@
+cd /ias/PoblarObras/
+/usr/java/jre1.8.0_131/bin/java -Duser.timezone=GMT-3:00 -classpath .:/ias/PoblarObras/lib/commons-net-3.3.jar:/ias/PoblarObras/lib/dom4j-1.6.1.jar:/ias/PoblarObras/lib/javax.mail.jar:/ias/PoblarObras/lib/jcifs-1.3.18.jar:/ias/PoblarObras/lib/ojdbc7.jar:/ias/PoblarObras/lib/org.apache.poi-poi-3.8.jar:/ias/PoblarObras/lib/poi-ooxml-3.7-20101029.jar:/ias/PoblarObras/lib/poi-ooxml-schemas-3.7-20101029.jar:/ias/PoblarObras/lib/xmlbeans-2.3.0.jar PoblarObras

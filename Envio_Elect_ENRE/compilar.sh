@@ -1,0 +1,2 @@
+cd /ias/Envio_Elect_ENRE/
+/opt/java7/bin/javac -classpath .:/ias/Envio_Elect_ENRE/lib/commons-net-3.3.jar:/ias/Envio_Elect_ENRE/lib/dom4j-1.6.1.jar:/ias/Envio_Elect_ENRE/lib/javax.mail.jar:/ias/Envio_Elect_ENRE/lib/jcifs-1.3.18.jar:/ias/Envio_Elect_ENRE/lib/ojdbc7.jar:/ias/Envio_Elect_ENRE/lib/org.apache.poi-poi-3.8.jar:/ias/Envio_Elect_ENRE/lib/poi-ooxml-3.7-20101029.jar:/ias/Envio_Elect_ENRE/lib/poi-ooxml-schemas-3.7-20101029.jar:/ias/Envio_Elect_ENRE/lib/xmlbeans-2.3.0.jar NewMain.java

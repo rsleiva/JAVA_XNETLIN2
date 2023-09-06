@@ -1,0 +1,2 @@
+cd /ias/Contratistas/
+/usr/java/jre1.8.0_131/bin/java -Duser.timezone=GMT-3:00 -classpath .:/ias/Contratistas/lib/commons-io-2.4.jar:/ias/Contratistas/lib/commons-net-3.3.jar:/ias/Contratistas/lib/dom4j-1.6.1.jar:/ias/Contratistas/lib/jcifs-1.3.18.jar:/ias/Contratistas/lib/ojdbc7.jar:/ias/Contratistas/lib/org.apache.poi-poi-3.8.jar:/ias/Contratistas/lib/poi-ooxml-3.7-20101029.jar:/ias/Contratistas/lib/poi-ooxml-schemas-3.7-20101029.jar:/ias/Contratistas/lib/xmlbeans-2.3.0.jar Contratista
